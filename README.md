@@ -1,5 +1,8 @@
 # 🤖 NISTBot — NIST SP 800-53 Compliance Chatbot
 
+## 🚀 Live Demo
+👉 [Try NISTBot](https://funkeomolere.github.io/nistbot)
+
 A RAG-powered AI chatbot that answers questions against NIST SP 800-53 Rev 5 documentation. Built as a practical GRC learning project using N8N, Pinecone, OpenAI, Google Cloud, and Anthropic.
 
 ---
